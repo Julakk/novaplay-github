@@ -1,5 +1,10 @@
 # NovaPlay SAMP
 
+![Status](https://img.shields.io/badge/Status-Under%20Development-orange)
+![Platform](https://img.shields.io/badge/Platform-Android-green)
+![Flutter](https://img.shields.io/badge/Flutter-3.x-blue)
+![License](https://img.shields.io/badge/License-Custom-red)
+
 NovaPlay SAMP adalah sebuah aplikasi launcher SA-MP (San Andreas Multiplayer) berbasis Android yang dikembangkan menggunakan Flutter. Proyek ini dibuat dengan tujuan memberikan pengalaman bermain SA-MP yang lebih modern, mudah digunakan, dan efisien melalui antarmuka yang sederhana namun elegan.
 
 Saat ini NovaPlay SAMP masih berada dalam tahap pengembangan aktif. Berbagai fitur, peningkatan performa, dan penyempurnaan tampilan akan terus ditambahkan pada setiap pembaruan.
