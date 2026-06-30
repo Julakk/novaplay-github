@@ -1,0 +1,19 @@
+🎮 **NovaPlay SAMP**
+━━━━━━━━━━━━━━━━━━
+🆕 **v0.1.0** • 01 Juli 2026
+
+**✅ Yang udah jadi:**
+• 🏠 Home Screen — tampil nickname & server yang lagi dipilih
+• ✏️ Edit Nickname — ganti nama in-game langsung dari app
+• 🖥️ Server List — tab Favorites & Hosted
+• ➕ Add Server — input IP/domain manual (support IP, IP:Port, Domain, Domain:Port)
+• 🔗 Connect Dialog — pilih server & langsung connect
+• ⭐ Favorit Server — tandain server favorit lo
+• 💾 Data tersimpan lokal — nickname & server list gak ilang kalau app ditutup
+• ⚙️ Build otomatis via GitHub Actions
+
+**🚧 Coming soon:**
+• Berita & pengumuman server
+• Profil & statistik pemain
+• Forum/chat komunitas
+• UI polish (background, gradient, animasi)
