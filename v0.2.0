@@ -1,0 +1,31 @@
+🎮 **NovaPlay SAMP**
+━━━━━━━━━━━━━━━━━━
+🆕 **v0.2.0** • 01 Juli 2026
+
+**✨ UI Overhaul:**
+• 🌑 Background dark navy dengan efek glow biru & ungu
+• 🪟 Glassmorphism cards — semi-transparan dengan blur effect
+• 🎨 Gradient logo + tombol PLAY ONLINE cyan → ungu
+• 📋 Server list polished — icon, ping badge, bintang favorit
+• 💬 Empty state yang informatif ("Tap + to add a server")
+
+**⚡ Fitur Baru:**
+• 📡 **Live Ping Realtime** — query UDP langsung ke server SA-MP
+• 🏷️ Hostname server tampil otomatis (bukan IP lagi)
+• 👥 Player count realtime (contoh: 0/60)
+• 🟢 Status Online/Offline otomatis
+• 🎯 Ping color-coded: hijau (<80ms) / kuning (80-150ms) / merah (>150ms)
+• 🖥️ Server info card di Home — nampilin stats server yang dipilih
+• 🔘 Empty card "No server selected" → tap langsung ke server list
+
+**🔧 Perbaikan:**
+• Fix StorageService conflict (method lama tetap ada)
+• Fix routing go_router (Home & Server List tersambung)
+• Fix import provider duplikat
+• INTERNET permission otomatis di build workflow
+
+**🚧 Coming soon:**
+• Ping realtime di server list
+• Splash screen animasi
+• Berita & pengumuman server
+• Profil & statistik pemain
