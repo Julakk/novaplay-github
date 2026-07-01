@@ -1,0 +1,33 @@
+🎮 **NovaPlay SAMP** — Update v0.3.0
+━━━━━━━━━━━━━━━━━━
+🆕 **v0.3.0** • 01 Juli 2026
+
+**🎨 Visual & Branding:**
+• 🖼️ Logo resmi NovaPlay SAMP terpasang
+• 📱 App icon launcher — logo NovaPlay SAMP (bukan Flutter default lagi)
+• ✨ Splash screen animasi fade-in + scale + loading bar cyan
+• 🏠 Logo tampil di header Home screen
+• 🌑 Background splash dark navy + glow effect
+
+**⚡ Fitur:**
+• 📡 Live ping realtime via UDP SA-MP protocol
+• 🏷️ Hostname server otomatis (nama server asli, bukan IP)
+• 👥 Player count realtime
+• 🟢 Status Online/Offline otomatis
+• 🎯 Ping color-coded: hijau/kuning/merah
+• 🖥️ Server info card di Home (Players, Ping, Password)
+• 🔘 Empty card "No server selected" → tap ke server list
+
+**🔧 Perbaikan:**
+• Fix background logo header (ClipRRect)
+• App name di launcher: "NovaPlay SAMP"
+• INTERNET permission otomatis saat build
+• Build workflow makin stabil
+
+**🚧 Coming soon:**
+• Logo PNG transparent (hilangkan background hitam)
+• Ping realtime di server list
+• Berita & pengumuman server
+• Connect ke server via deep link
+
+📦 Repo: https://github.com/Julakk/novaplay-samp
